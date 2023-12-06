@@ -22,6 +22,17 @@ This allows the Random Movie project to dynamically retrieve movie data and disp
 “You can manage your movies by receiving random movie recommendations.”
 By rating your favorite movies, you can use them as a reference when choosing movies in the future. Random movies always offer unexpected aspects and unique insights. Diverse themes and diverse characters allow you to observe the world from new angles, which leads to the opportunity to gain deeper understanding and awareness. Random movies provide a rich visual experience that takes you out of your daily routine and inspires you.
 
+# Conclusion and Acknowledgments
+## Project Importance
+
+The Random Movie project gave me valuable experience learning and applying new techniques.
+By integrating the movie data API, we experienced interacting with real data and were able to build on our knowledge in various aspects of Android app development.
+future prospects
+
+The project is continuously evolving, and additional features and improvements are being considered.
+Through user feedback, we are planning upgrades to improve the app's user experience, include more movie data, and more.
+
+
 
 
 
@@ -39,13 +50,4 @@ By rating your favorite movies, you can use them as a reference when choosing mo
 
 
 
-# Conclusion and Acknowledgments
-## Project Importance
-
-The Random Movie project gave me valuable experience learning and applying new techniques.
-By integrating the movie data API, we experienced interacting with real data and were able to build on our knowledge in various aspects of Android app development.
-future prospects
-
-The project is continuously evolving, and additional features and improvements are being considered.
-Through user feedback, we are planning upgrades to improve the app's user experience, include more movie data, and more.
 
