@@ -36,6 +36,9 @@ By rating your favorite movies, you can use them as a reference when choosing mo
 
 <video width="290" alt="Screenshot 2023-12-06 at 9 51 10 PM-2" src="https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/1a8a3907-020e-4b17-9d96-abd54ae68700">
 
+
+
+
 # Conclusion and Acknowledgments
 ## Project Importance
 
