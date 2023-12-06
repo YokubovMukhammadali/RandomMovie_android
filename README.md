@@ -5,6 +5,7 @@
 # Results
 ## Find your favorite movies: Find your favorite movies.
 ### About the app:
+
 "RandomMovie is a movie recommendation app that runs on the Android platform."
 “You can manage your movies by receiving random movie recommendations.”
 By rating your favorite movies, you can use them as a reference when choosing movies in the future.
