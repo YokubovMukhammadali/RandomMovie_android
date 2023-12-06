@@ -4,6 +4,8 @@
 
 # Results
 Find your favorite movies: Find your favorite movies.
+
+
 <img width="310" alt="Screenshot 2023-12-06 at 9 51 10 PM-2" src="https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/78bb6af5-adfa-4a59-b034-1252e94c4c38">
 
 <img width="290" alt="Screenshot 2023-12-06 at 9 51 10 PM-2" src="https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/d574f01e-9eb7-45d1-8ecd-379c7a044cdd">
