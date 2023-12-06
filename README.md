@@ -3,7 +3,8 @@
 
 # Mockups
 <p align="center">
-  <img width="250" alt="test1" src="https://github.com/glitterylungs/RandomMovie/assets/72377506/7810cd4e-c16a-499e-9f6f-5d5a52d82ce3">
-  <img width="250" alt="test1" src="https://github.com/glitterylungs/RandomMovie/assets/72377506/50c8b7a9-7c0c-47f8-a697-47d7a38096b9">
-  <img width="250" alt="test1" src="https://github.com/glitterylungs/RandomMovie/assets/72377506/96f5096e-1651-43ab-a5f5-65d392b10bc0">
+ 
 </p>
+<img width="587" alt="Screenshot 2023-12-06 at 9 51 10 PM-2" src="https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/78bb6af5-adfa-4a59-b034-1252e94c4c38">
+![photo1701867088](https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/f79c4e45-7076-4e69-afed-7f297ec727f9)
+![photo1701867066](https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/38f80725-40a3-413d-96a3-01fa7cd22ad5)
