@@ -4,4 +4,4 @@
 # Mockups
 <p align="center">
 
-![photo1701867088](https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/d94f5379-2000-4a3d-a5f4-06d251d6a925)
+![photo1701867088](https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/d94f2500-2000-4a3d-a5f4-06d251d6a925)
