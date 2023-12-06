@@ -3,11 +3,5 @@
 
 # Mockups
 <p align="center">
- 
-</p>
-<img width="270" alt="Screenshot 2023-12-06 at 9 51 10 PM-2" src="https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/78bb6af5-adfa-4a59-b034-1252e94c4c38">
 
-<img width="270" alt="Screenshot 2023-12-06 at 9 51 10 PM-3" src="(https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/81cfd9bd-f2ba-49da-8259-2df00fcd8da7)">
-
-<img width="270" alt="Screenshot 2023-12-06 at 9 51 10 PM-4" src=(https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/9dcf8a00-1a08-4f30-9bde-4d1571a85dfe)">
-
+![photo1701867088](https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/d94f5379-5430-4a3d-a5f4-06d251d6a925)
