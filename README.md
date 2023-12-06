@@ -1,9 +1,9 @@
-## RandomMovie
-# "RandomMovie" is an Android application that draws random movies and gives users the ability to mark favorites as favorites. The app allows users to discover randomly selected movies, find ones that interest them, and add them to their favorites list. This can be used as a handy tool to help you discover and get recommended movies more easily.
+# RandomMovie
+## "RandomMovie" is an Android application that draws random movies and gives users the ability to mark favorites as favorites. The app allows users to discover randomly selected movies, find ones that interest them, and add them to their favorites list. This can be used as a handy tool to help you discover and get recommended movies more easily.
 
 
-## Results
-# Find your favorite movies: Find your favorite movies.
+# Results
+## Find your favorite movies: Find your favorite movies.
 
 
 
