@@ -36,3 +36,13 @@ By rating your favorite movies, you can use them as a reference when choosing mo
 
 <video width="290" alt="Screenshot 2023-12-06 at 9 51 10 PM-2" src="https://github.com/YokubovMukhammadali/randommovie-android/assets/119654152/1a8a3907-020e-4b17-9d96-abd54ae68700">
 
+# Conclusion and Acknowledgments
+## Project Importance
+
+The Random Movie project gave me valuable experience learning and applying new techniques.
+By integrating the movie data API, we experienced interacting with real data and were able to build on our knowledge in various aspects of Android app development.
+future prospects
+
+The project is continuously evolving, and additional features and improvements are being considered.
+Through user feedback, we are planning upgrades to improve the app's user experience, include more movie data, and more.
+
