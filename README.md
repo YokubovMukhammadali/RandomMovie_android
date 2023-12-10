@@ -1,7 +1,8 @@
 # RandomMovie
  "RandomMovie" is an Android application that draws random movies and gives users the ability to mark favorites as favorites. The app allows users to discover randomly selected movies, find ones that interest them, and add them to their favorites list. This can be used as a handy tool to help you discover and get recommended movies more easily.
 
-# Movie Data API 
+# Movie Data API   
+
 Introduction to the APIs used
 
 The Random Movie project uses The Movie Database (TMDb) API to dynamically retrieve various movie information and display it on the screen. The TMDb API provides a variety of data, including information about movies, posters, and reviews.
