@@ -34,7 +34,8 @@ The project is continuously evolving, and additional features and improvements a
 Through user feedback, we are planning upgrades to improve the app's user experience, include more movie data, and more.
 
 mmmmmmm
-'''kotlin
+
+''' kotlin
 이것은 Kotlin 프로그래밍 언어를 사용하여 작성된 데이터 클래스입니다. 이 클래스들은 영화 정보를 표현하는 데 사용될 수 있는 데이터를 정의합니다. 여기에 사용된 클래스들은 다음과 같습니다:
 
 1. **MovieApi**: 이 클래스는 영화의 주요 정보를 나타냅니다. 다음과 같은 속성들을 가지고 있습니다:
