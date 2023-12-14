@@ -34,9 +34,11 @@ The project is continuously evolving, and additional features and improvements a
 Through user feedback, we are planning upgrades to improve the app's user experience, include more movie data, and more.
 
 mmmmmmm
+## Movie API
 
-''' kotlin
-''' kotlin
+This Kotlin code defines data classes for representing movie information through an API.
+
+```kotlin
 package com.example.randommovie.api.model
 
 data class MovieApi(
@@ -56,7 +58,8 @@ data class TitleTextApi(
 data class ReleaseYearApi(
     val year: Int?
 )
-'''
+```
+
 
 이것은 Kotlin 프로그래밍 언어를 사용하여 작성된 데이터 클래스입니다. 이 클래스들은 영화 정보를 표현하는 데 사용될 수 있는 데이터를 정의합니다. 여기에 사용된 클래스들은 다음과 같습니다:
 
@@ -72,7 +75,7 @@ data class ReleaseYearApi(
 4. **ReleaseYearApi**: 이 클래스는 영화의 출시 연도에 대한 정보를 나타냅니다. 하나의 속성인 `year`가 있으며, 이는 출시 연도를 나타내는 정수값입니다.
 
 이 코드는 주로 Kotlin에서 JSON 또는 다른 형식의 데이터를 쉽게 파싱하거나 표현하기 위해 사용될 수 있습니다. 예를 들어, 이 데이터 클래스들은 Retrofit이나 Gson 같은 라이브러리를 사용하여 서버에서 받아온 JSON 데이터를 객체로 변환할 때 편리하게 사용될 수 있습니다.
-'''
+
 
 
 
