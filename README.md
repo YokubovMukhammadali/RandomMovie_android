@@ -101,6 +101,13 @@ This code uses the Retrofit library to define a service interface for interactin
 - Single<MovieListApi>:` Represents a single result asynchronously using the `Single` class provided by `RxJava`. In this case, it returns an object of class `MovieListApi` asynchronously.
 - This code provides the basis for asynchronously retrieving movie information in an Android application, leveraging the `Retrofit` and `RxJava` libraries.
 
+## Conclusion
+Through the "RandomMovie" project, we developed an Android application that recommends random movies and provides a favorite feature. Through this project, I was able to acquire new skills and concepts and realize the importance of collaboration and communication. We will continue to make improvements so that users can have a more enjoyable and convenient movie recommendation experience.
+
+Through this project, I gained experience in Android app development, API integration using Retrofit and RxJava, and collecting and reflecting on user feedback. Learning new tools and technologies has fostered my continued growth as a developer.
+
+RandomMovie is constantly evolving, and we plan to provide more features and an improved user experience based on user feedback. In addition, we plan to include more diverse movie data and introduce user-friendly features.
+RandomMovie will provide users with the pleasure of discovering new movies and strive to provide a better movie recommendation experience.
 # Results
 `
 
