@@ -90,12 +90,17 @@ interface MovieService {
 }
 
 ```
-``` kotlin
-MovieService The interface is used to interact with the Movie API using Retrofit.
-The @GET("titles/random") annotation performs an HTTP GET request, with an endpoint of "titles/random".
-The getRandomMovies function takes two query parameters, sends a request to the API, and uses Single<MovieListApi> as the return value. It represents the result of an asynchronous operation using the Single class provided by RxJava.
-@Query("list") list: String and @Query("limit") limit: Int represent query parameters to be included in the GET request.
-```
+
+This code uses the Retrofit library to define a service interface for interacting with the movie API. The description of each part is as follows:
+
+`MovieService:` API service interface used by Retrofit.
+- `@GET("titles/random"):` Performs an HTTP GET request, with an endpoint of `"titles/random"`.
+- `getRandomMovies:` Method to get a list of random movies from the movie API. It takes two query parameters: `list` and `limit`.
+- `@Query("list") list:` `String:` A string parameter representing a list of movies.
+- `@Query("limit") limit`: `Int:` An integer parameter indicating the maximum number of movies to retrieve.
+- Single<MovieListApi>:` Represents a single result asynchronously using the `Single` class provided by `RxJava`. In this case, it returns an object of class `MovieListApi` asynchronously.
+- This code provides the basis for asynchronously retrieving movie information in an Android application, leveraging the `Retrofit` and `RxJava` libraries.
+
 # Results
 `
 
